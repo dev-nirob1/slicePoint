@@ -15,9 +15,9 @@ import TestimonialSection from './zems/Front/Components/Section/TestimonialSecti
   <HeroSection />
   <ProductStory />
   <ProductQualitySection />
-  <IngredientsSection />
+  <!-- <IngredientsSection /> -->
   <ContactSection />
-  <TestimonialSection />
+  <!-- <TestimonialSection /> -->
   <FooterSection />
 </template>
 

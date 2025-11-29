@@ -1,5 +1,5 @@
 <template>
-  <section class="quality-section bg-light">
+  <section class="quality-section bg-dark">
     <div class="container text-center">
 
       <BaseTitle>Our Pizza, Perfected</BaseTitle>
@@ -51,7 +51,7 @@ export default {
 <style scoped>
 .quality-section {
   padding: 5rem 1rem;
-  background: var(--charcoal);
+  background:var(--dark-color);
   color: var(--white-color);
 }
 
