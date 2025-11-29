@@ -638,7 +638,7 @@ textarea,
   border-radius: 0.5rem;
   background-color: transparent;
   width: 100%;
-  padding: 1rem;
+  padding: .85rem;
   margin: 0.5rem 0 0.75rem 0;
 }
 select {
