@@ -28,7 +28,6 @@
 .hero {
   min-height: 100vh;
   padding: 10rem 0 8rem 0;
-  color: var(--white-color);
 }
 
 .hero p {
