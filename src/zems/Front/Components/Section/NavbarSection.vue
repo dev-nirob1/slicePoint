@@ -41,7 +41,7 @@ const handleHamburger = () => {
           </ListItem>
         </ul>
         <div>
-          <BaseButton @click="handleOpenFormModal" class="outline-btn">Buy Now</BaseButton>
+          <BaseButton @click="handleOpenFormModal" class="bg-primary">Order Now</BaseButton>
         </div>
 
 

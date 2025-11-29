@@ -13,8 +13,8 @@
             golden perfection.
           </BaseParagraph>
           <div class="flex gap-1">
-            <BaseButton>Order Now</BaseButton>
-            <BaseButton>View Ingredients</BaseButton>
+            <BaseButton class="bg-primary">Order Now</BaseButton>
+            <BaseButton class="outline-btn">View Ingredients</BaseButton>
           </div>
         </div>
         <div class="image">
@@ -26,7 +26,7 @@
 </template>
 <style scoped>
 .hero {
-  min-height: 115vh;
+  min-height: 100vh;
   padding: 10rem 0 8rem 0;
   color: var(--white-color);
 }
@@ -46,5 +46,8 @@
   position: absolute;
   inset: 0;
   background: rgba(0, 0, 0, .2)
+}
+.image img {
+  object-fit: 100% 100%;
 }
 </style>
