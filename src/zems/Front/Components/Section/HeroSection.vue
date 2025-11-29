@@ -26,7 +26,8 @@
 </template>
 <style scoped>
 .hero {
-  min-height: 100vh;
+  min-height: 115vh;
+  padding: 10rem 0 8rem 0;
   color: var(--white-color);
 }
 
@@ -39,10 +40,11 @@
   inset: 0;
   z-index: -1;
 }
-.image::before{
+
+.image::before {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0, .2)
+  background: rgba(0, 0, 0, .2)
 }
 </style>
