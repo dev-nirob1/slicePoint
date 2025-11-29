@@ -69,7 +69,8 @@
 
 .product-story li {
   padding: .5rem;
-  box-shadow: var(--box-shadow);
+  border-radius: .5rem;
+  background: rgb(from var(--accent-color) r g b / 5%);
 }
 
 li>div {
@@ -86,7 +87,7 @@ blockquote {
   margin: 1.5rem 0;
   padding: .35rem 1rem .35rem 2rem;
   border-radius: 1rem;
-  background: rgb(from var(--primary-color)r g b / 2%)
+  background: rgb(from var(--accent-color)r g b / 5%)
 }
 
 blockquote p {
