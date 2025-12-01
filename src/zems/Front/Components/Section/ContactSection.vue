@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="contact">
+  <section class="contact bg-dark">
     <div class="container">
       <div class="medium-2 gap-2">
         <div class="content">

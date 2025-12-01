@@ -64,15 +64,7 @@ const handleHamburger = () => {
   color: var(--white-color);
   /* backdrop-filter: blur(5px); */
 }
-.outline-btn {
-  border: 2px solid var(--dark-color);
-  color: var(--dark-color);
-}
-.outline-btn:hover {
-  color: var(--white-color);
-    border-color: var(--primary-color);
-  background: var(--primary-color);
-}
+
 .container {
   transition: all .5s ease-in-out;
 }
