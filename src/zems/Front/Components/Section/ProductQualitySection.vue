@@ -1,5 +1,5 @@
 <template>
-  <section class="product-quality bg-dark">
+  <section class="product-quality">
     <div class="container">
       <div class="mb-2 text-center">
         <BaseTitle>Premium Quality You Can Taste</BaseTitle>
@@ -41,6 +41,7 @@
   padding: 2.5rem 2rem;
   border-radius: .5rem;
   border: 2px solid var(--primary-color);
+  background: var(--dark-color);
   text-align: center;
 }
 </style>

@@ -7,14 +7,16 @@ import NavbarSection from './zems/Front/Components/Section/NavbarSection.vue';
 import PizzaDetails from './zems/Front/Components/Section/PizzaDetails.vue';
 import ProductQualitySection from './zems/Front/Components/Section/ProductQualitySection.vue';
 import TestimonialSection from './zems/Front/Components/Section/TestimonialSection.vue';
+import WhatsInside from './zems/Front/Components/Section/GallerySection.vue';
 
 </script>
 
 <template>
   <NavbarSection />
   <HeroSection />
-  <PizzaDetails/>
   <ProductQualitySection />
+  <PizzaDetails/>
+  <WhatsInside/>
   <IngredientsSection />
   <ContactSection />
   <TestimonialSection />

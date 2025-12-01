@@ -35,7 +35,7 @@ defineProps({
   padding: 2rem 1.5rem;
   font-size: 1.1rem;
   background: var(--dark-color);
-  border: 1px solid var(--border-color);
+  /* border: 1px solid var(--border-color); */
   flex: 0 0 100%;
 }
 

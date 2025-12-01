@@ -1,5 +1,5 @@
 <template>
-  <section class="pizza-details">
+  <section class="pizza-details bg-dark">
     <div class="container">
       <div class="medium-2 gap-2">
         <div class="image">
