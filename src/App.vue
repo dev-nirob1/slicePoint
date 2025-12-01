@@ -8,6 +8,7 @@ import PizzaDetails from './zems/Front/Components/Section/PizzaDetails.vue';
 import ProductQualitySection from './zems/Front/Components/Section/ProductQualitySection.vue';
 import TestimonialSection from './zems/Front/Components/Section/TestimonialSection.vue';
 import OfferSection from './zems/Front/Components/Section/OfferSection.vue';
+import GallerySection from './zems/Front/Components/Section/GallerySection.vue';
 
 </script>
 
@@ -17,6 +18,7 @@ import OfferSection from './zems/Front/Components/Section/OfferSection.vue';
   <ProductQualitySection />
   <PizzaDetails/>
   <IngredientsSection />
+  <GallerySection/>
   <OfferSection/>
   <ContactSection />
   <TestimonialSection />

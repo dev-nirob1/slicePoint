@@ -52,7 +52,8 @@
 
     <!-- Footer bottom copyright -->
     <div class="footer-bottom">
-      <BaseParagraph> &copy; {{ new Date().getFullYear() }} SlicePoint. Design and Developed by <a class="text-secondary" href="https://webpoka.com/" target="_blank">Webpoka</a>.
+      <BaseParagraph> &copy; {{ new Date().getFullYear() }} SlicePoint. Design and Developed by <a
+          class="text-secondary" href="https://webpoka.com/" target="_blank">Webpoka</a>.
       </BaseParagraph>
     </div>
   </footer>
@@ -82,7 +83,8 @@
   color: var(--primary-color);
   padding: 0 .75rem;
 }
-.footer .social-links a:hover{
+
+.footer .social-links a:hover {
   color: var(--secondary-color);
 }
 

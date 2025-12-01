@@ -6,67 +6,68 @@ const testimonials = ref([
   {
     id: 1,
     name: "Sarah Khan",
-    role: "Student",
-    review: "BagPoint made my daily commute so much easier. The compartments keep everything organized and the comfort is unmatched.",
-    avatar: "https://randomuser.me/api/portraits/men/32.jpg"
+    role: "Food Blogger",
+    review: "SlicePoint’s Margherita is an absolute delight. The crust is perfectly baked, and the cheese melts in the right way every time!",
+    avatar: "https://randomuser.me/api/portraits/women/32.jpg"
   },
   {
     id: 2,
     name: "Jahid Hossain",
     role: "Office Worker",
-    review: "I carry my laptop and documents every day, and this bag handles everything effortlessly. Smart, durable, and very stylish.",
-    avatar: "https://images.unsplash.com/photo-1620000617482-821324eb9a14?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    review: "Pepperoni Deluxe from SlicePoint keeps me coming back. Bold flavors and fresh toppings make lunch exciting!",
+    avatar: "https://randomuser.me/api/portraits/men/33.jpg"
   },
   {
     id: 3,
     name: "Nabila Rahman",
     role: "Traveler",
-    review: "The lightweight design and storage options are perfect for trips. It fits all my essentials without feeling heavy at all.",
-    avatar: "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    review: "The Four Cheese Blend is heavenly! Every slice tastes fresh and premium, perfect for sharing with friends after a trip.",
+    avatar: "https://randomuser.me/api/portraits/women/44.jpg"
   },
   {
     id: 4,
     name: "Imran Chowdhury",
     role: "Photographer",
-    review: "I love how secure the pockets are. My gear stays safe and the bag feels super comfortable even on long shoots.",
-    avatar: "https://randomuser.me/api/portraits/men/32.jpg"
+    review: "I love the Italian Herb Special. The aromatic herbs and balanced flavors make it my go-to choice for a quick bite.",
+    avatar: "https://randomuser.me/api/portraits/men/28.jpg"
   },
   {
     id: 5,
     name: "Farzana Ahmed",
     role: "University Student",
-    review: "Perfect for carrying books, laptop, and accessories. The build quality feels premium and the design looks very modern.",
-    avatar: "https://randomuser.me/api/portraits/women/44.jpg"
+    review: "SlicePoint pizza is consistently amazing. Perfect for study nights — fresh, tasty, and satisfying every time.",
+    avatar: "https://randomuser.me/api/portraits/women/22.jpg"
   },
   {
     id: 6,
     name: "Rafiq Karim",
     role: "Tech Enthusiast",
-    review: "The laptop padding and pocket layout are excellent. Everything fits neatly and the bag still feels surprisingly light.",
-    avatar: "https://randomuser.me/api/portraits/men/28.jpg"
+    review: "The crust on their pizzas is unmatched. Crisp, soft, and just the right thickness. SlicePoint nailed it!",
+    avatar: "https://randomuser.me/api/portraits/men/40.jpg"
   },
   {
     id: 7,
     name: "Maya Sultana",
     role: "Teacher",
-    review: "I carry my books and supplies every day, and this bag handles it all with ease. Functional, clean, and very reliable.",
-    avatar: "https://randomuser.me/api/portraits/women/22.jpg"
+    review: "I order from SlicePoint every weekend. The quality, flavor, and freshness make it a family favorite.",
+    avatar: "https://randomuser.me/api/portraits/women/25.jpg"
   },
   {
     id: 8,
     name: "Tanvir Alam",
     role: "Freelancer",
-    review: "Spacious, comfortable, and minimal — exactly what I needed. It organizes my work gear perfectly and feels great to use.",
+    review: "The Veggie Supreme is colorful, tasty, and full of fresh ingredients. Perfect for a healthy indulgence!",
     avatar: "https://randomuser.me/api/portraits/men/50.jpg"
   },
   {
     id: 9,
     name: "Samira Niaz",
     role: "Designer",
-    review: "The clean look and sturdy material make it my favorite everyday bag. Practical, stylish, and perfect for busy days.",
+    review: "SlicePoint pizza is a masterpiece. Every slice tells a story of quality ingredients and perfect baking.",
     avatar: "https://randomuser.me/api/portraits/women/15.jpg"
   }
 ])
+
 
 
 </script>

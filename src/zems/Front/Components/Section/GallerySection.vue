@@ -10,7 +10,7 @@ const gallery = ref([
 </script>
 
 <template>
-  <section class="gallery">
+  <section class="gallery bg-dark">
     <div class="container">
       <BaseTitle class="mb-2 text-center">Behind Every Perfect Slice</BaseTitle>
 
