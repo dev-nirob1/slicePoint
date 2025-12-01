@@ -16,8 +16,8 @@ import OfferSection from './zems/Front/Components/Section/OfferSection.vue';
   <HeroSection />
   <ProductQualitySection />
   <PizzaDetails/>
-  <OfferSection/>
   <IngredientsSection />
+  <OfferSection/>
   <ContactSection />
   <TestimonialSection />
   <FooterSection />

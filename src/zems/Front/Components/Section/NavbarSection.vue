@@ -60,9 +60,9 @@ const handleHamburger = () => {
   width: 100%;
   top: 0;
   z-index: 999;
-  padding: .75rem 0;
+  padding: .5rem 0;
   color: var(--white-color);
-  /* backdrop-filter: blur(5px); */
+  backdrop-filter: blur(5px);
 }
 
 .container {
